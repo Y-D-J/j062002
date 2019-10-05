@@ -1,1 +1,2 @@
 hello git
+我是user2,我改了文件
